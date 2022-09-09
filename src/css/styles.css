@@ -18,3 +18,12 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+img {
+  width: 20px;
+  margin-right: 2px;
+}
+
+ul {
+  list-style: none;
+}
